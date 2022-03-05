@@ -9,22 +9,8 @@ BIG THANKS TO
 •Ariffb
 •Amel
 •IrwanX
-•Dawnfrosty
-•Rteam1
-•Beniismael
-•Raditya 
-•AlyaaXzy (gua)
-•Furqan
-•Elyas
-•Rasel
-•Xteam
-•khael
-•Atenabot
-•Baka Botz
-•ZeeoneOfc
-•Zeks
-•Rendycraft  
-•Nadin
+•RielGans
+•LanXzy
 •Aca Mirabel
 •Penyedia Layanan API
 •Orang-orang yang Berdonasi
@@ -65,7 +51,7 @@ BIG THANKS TO
 •Rendycraft  
 •Nadin
 •Aca Mirabel
-•Zeus Botz ( gwhej )
+•Riel gans ( gwhej )
 •The.SadBoy.01
 •Penyedia Layanan API
 •Orang-orang yang Berdonasi
